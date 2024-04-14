@@ -1,4 +1,4 @@
-## hashcat 6.2.6 fork with support for SCCM hashes (Mode 19580)
+## hashcat 6.2.6 fork with support for SCCM hashes (Mode 19850)
 Based on this repo for adding support for SCCM hashes: https://github.com/MWR-CyberSec/configmgr-cryptderivekey-hashcat-module <br />
 Updated to include the following pull request: https://github.com/MWR-CyberSec/configmgr-cryptderivekey-hashcat-module/pull/3 <br />
 
